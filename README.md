@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Chainlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 # 🍽️ Restaurant Customer Service AI
 
@@ -70,5 +70,6 @@ python main.py
 ## 🤝 Connect
 Built by **[Aisha Siddiqua](https://linkedin.com/in/aisha-siddiqua-1b01a9268)** — Agentic AI Engineer  
 📧 aishasiddiqua1124@gmail.com | 🌍 Open to roles in UAE · KSA · Qatar
+
 
 
