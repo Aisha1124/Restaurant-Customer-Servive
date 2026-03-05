@@ -67,14 +67,7 @@ python main.py
 
 ```
 
-## 📊 Performance Metrics
-| Metric | Result |
-|---|---|
-| Reservation & Order Accuracy | 95% |
-| Automation Efficiency Improvement | 50% |
-| Complaint Resolution Time Reduction | 40% |
-| Simulated Interactions Handled | 500+ |
-
 ## 🤝 Connect
 Built by **[Aisha Siddiqua](https://linkedin.com/in/aisha-siddiqua-1b01a9268)** — Agentic AI Engineer  
 📧 aishasiddiqua1124@gmail.com | 🌍 Open to roles in UAE · KSA · Qatar
+
